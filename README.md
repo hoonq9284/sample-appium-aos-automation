@@ -8,7 +8,7 @@
     - `brew install openjdk`
 2. node.js 설치 (npm 도 같이 설치됨)
     - `brew install node`
-3. apppium 설치
+3. appium 설치
     - `npm install -g appium`
 4. Android Studio 설치
     - https://developer.android.com/studio/?hl=ko
